@@ -7,7 +7,7 @@ public class Loginpage {
 
 	public class baseclass  {
 		
-		public void testcase1() {
+		public void testcase() {
 			
 			
 			System.out.println("this is test cases4");			
