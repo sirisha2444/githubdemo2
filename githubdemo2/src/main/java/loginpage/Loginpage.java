@@ -10,8 +10,7 @@ public class Loginpage {
 		public void testcase1() {
 			
 			
-			System.out.println("this is test cases4");
-			
+			System.out.println("this is test cases4");			
 			System.out.println("This is my second commit");
 			
 		}
